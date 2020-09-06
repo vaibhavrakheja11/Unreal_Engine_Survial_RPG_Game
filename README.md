@@ -13,7 +13,7 @@ An example RPG project demonstrating some of the basic parts of RPG games includ
 
 ## Screenshots
 
-![Alt text](/Screenshots/Screen Shot 2020-09-05 at 11.54.47 PM.png?raw=true "Optional Title")
+![Alt text](/Screenshots/screenshot1.png?raw=true "Screenshot 1")
 
 
 ## Inspired and tutorial by 
