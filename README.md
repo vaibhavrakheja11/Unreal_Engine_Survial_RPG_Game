@@ -11,7 +11,11 @@
 
 An example RPG project demonstrating some of the basic parts of RPG games including an inventory system, equipment system, skills, leveling and experience points, combat, weapons, armor, and more.
 
-## Screenshots
+#### Gameplay video
+
+https://youtu.be/Yl3m2b1kGkg
+
+#### Screenshots
 
 ![Alt text](/Screenshots/screenshot1.png?raw=true "Screenshot 1")
 ![Alt text](/Screenshots/screenshot2.png?raw=true "Screenshot 2")
@@ -24,9 +28,10 @@ An example RPG project demonstrating some of the basic parts of RPG games includ
 
 
 
-## Inspired and tutorial by 
+### Inspired and tutorial by 
 
 #### Titan Games: 
+
 https://www.youtube.com/channel/UCdoWGpMQK_L29bWXoDeIItw
 
 
